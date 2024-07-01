@@ -3,6 +3,5 @@ title: Sam42R's Blog
 description: This page is used to publish updates of my projects.
 minima:
   skin: dark
-  minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/Sam42R/Sam42R" }
